@@ -1,0 +1,13 @@
+.buttoncolor{
+    background-color:#D349AD;
+    color:white;
+    margin-top:20px;
+    width:200px;
+    border:none;
+    padding: 5px ;
+ 
+ }
+ #inputField{
+     background-color:#EAEAEA;
+     width:400px
+ }
